@@ -1,0 +1,43 @@
+{
+  "build": "h7e8668a_6",
+  "build_number": 6,
+  "channel": "https://conda.anaconda.org/pytorch/linux-64",
+  "constrains": [],
+  "depends": [
+    "cuda-cudart >=11.8,<12.0",
+    "cuda-cupti >=11.8,<12.0",
+    "cuda-libraries >=11.8,<12.0",
+    "cuda-nvrtc >=11.8,<12.0",
+    "cuda-nvtx >=11.8,<12.0",
+    "cuda-runtime >=11.8,<12.0",
+    "libcublas >=11.11.3.6,<12.0.1.189",
+    "libcufft >=10.9.0.58,<11.0.0.21",
+    "libcusolver >=11.4.1.48,<11.4.2.57",
+    "libcusparse >=11.7.5.86,<12.0.0.76",
+    "libnpp >=11.8.0.86,<12.0.0.30",
+    "libnvjpeg >=11.9.0.86,<12.0.0.28"
+  ],
+  "extracted_package_dir": "/home/zhuziwei/anaconda3/pkgs/pytorch-cuda-11.8-h7e8668a_6",
+  "features": "",
+  "files": [],
+  "fn": "pytorch-cuda-11.8-h7e8668a_6.tar.bz2",
+  "link": {
+    "source": "/home/zhuziwei/anaconda3/pkgs/pytorch-cuda-11.8-h7e8668a_6",
+    "type": 1
+  },
+  "md5": "84fb23b7a51f0f4942c33412ea19f833",
+  "name": "pytorch-cuda",
+  "package_tarball_full_path": "/home/zhuziwei/anaconda3/pkgs/pytorch-cuda-11.8-h7e8668a_6.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pytorch-cuda=11.8",
+  "sha256": "0debad38e24dedafecf993262639d0993201c48ff21b2447b45f15f5c3911d6b",
+  "size": 7171,
+  "subdir": "linux-64",
+  "timestamp": 1713892013449,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/pytorch/linux-64/pytorch-cuda-11.8-h7e8668a_6.tar.bz2",
+  "version": "11.8"
+}

@@ -1,0 +1,45 @@
+{
+  "build": "h297d8ca_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=12",
+    "libstdcxx-ng >=12"
+  ],
+  "extracted_package_dir": "/home/zhuziwei/anaconda3/pkgs/ninja-1.12.1-h297d8ca_0",
+  "features": "",
+  "files": [
+    "bin/ninja"
+  ],
+  "fn": "ninja-1.12.1-h297d8ca_0.conda",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/home/zhuziwei/anaconda3/pkgs/ninja-1.12.1-h297d8ca_0",
+    "type": 1
+  },
+  "md5": "3aa1c7e292afeff25a0091ddd7c69b72",
+  "name": "ninja",
+  "package_tarball_full_path": "/home/zhuziwei/anaconda3/pkgs/ninja-1.12.1-h297d8ca_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/ninja",
+        "path_type": "hardlink",
+        "sha256": "b3aee46f212fcc09c222d02e600a060ba7cd5332d10b6fbaaac5f8ad56bdc9ee",
+        "sha256_in_prefix": "b3aee46f212fcc09c222d02e600a060ba7cd5332d10b6fbaaac5f8ad56bdc9ee",
+        "size_in_bytes": 7626496
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "40f7b76b07067935f8a5886aab0164067b7aa71eb5ad20b7278618c0c2c98e06",
+  "size": 2198858,
+  "subdir": "linux-64",
+  "timestamp": 1715440571685,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/ninja-1.12.1-h297d8ca_0.conda",
+  "version": "1.12.1"
+}

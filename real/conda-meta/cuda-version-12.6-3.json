@@ -1,0 +1,38 @@
+{
+  "build": "3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/nvidia/noarch",
+  "constrains": [
+    "cudatoolkit 12.6|12.6.*",
+    "__cuda >=12"
+  ],
+  "depends": [],
+  "extracted_package_dir": "/home/zhuziwei/anaconda3/pkgs/cuda-version-12.6-3",
+  "features": "",
+  "files": [],
+  "fn": "cuda-version-12.6-3.conda",
+  "legacy_bz2_md5": "490a49513fa92797bb5336ae329688bf",
+  "legacy_bz2_size": 16589,
+  "license": "LicenseRef-NVIDIA-End-User-License-Agreement",
+  "link": {
+    "source": "/home/zhuziwei/anaconda3/pkgs/cuda-version-12.6-3",
+    "type": 1
+  },
+  "md5": "87e333c55042b66e36e2cf4c47d5be06",
+  "name": "cuda-version",
+  "noarch": "generic",
+  "package_tarball_full_path": "/home/zhuziwei/anaconda3/pkgs/cuda-version-12.6-3.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7a092f6b3c0115e4c009fbadd640b1367b2ae7f797273d0da6000c71201d0e1f",
+  "size": 16872,
+  "subdir": "noarch",
+  "timestamp": 1726770198586,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/nvidia/noarch/cuda-version-12.6-3.conda",
+  "version": "12.6"
+}

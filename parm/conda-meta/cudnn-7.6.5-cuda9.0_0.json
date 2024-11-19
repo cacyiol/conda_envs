@@ -1,0 +1,67 @@
+{
+  "build": "cuda9.0_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "cudatoolkit >=9.0,<9.1"
+  ],
+  "extracted_package_dir": "/home/zhuziwei/anaconda3/pkgs/cudnn-7.6.5-cuda9.0_0",
+  "features": "",
+  "files": [
+    "include/cudnn.h",
+    "lib/libcudnn.so",
+    "lib/libcudnn.so.7",
+    "lib/libcudnn.so.7.6.5"
+  ],
+  "fn": "cudnn-7.6.5-cuda9.0_0.conda",
+  "legacy_bz2_md5": "448d294a85c4934c35150692325244b6",
+  "legacy_bz2_size": 202775760,
+  "license": "Proprietary",
+  "link": {
+    "source": "/home/zhuziwei/anaconda3/pkgs/cudnn-7.6.5-cuda9.0_0",
+    "type": 1
+  },
+  "md5": "be86d7ce324baafffc384bb9ca25fa96",
+  "name": "cudnn",
+  "package_tarball_full_path": "/home/zhuziwei/anaconda3/pkgs/cudnn-7.6.5-cuda9.0_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/cudnn.h",
+        "path_type": "hardlink",
+        "sha256": "9c6d4c25cd0c858e315df4553dd83f491796b4e8f0096437f5cd38ce930cc4fb",
+        "sha256_in_prefix": "9c6d4c25cd0c858e315df4553dd83f491796b4e8f0096437f5cd38ce930cc4fb",
+        "size_in_bytes": 134857
+      },
+      {
+        "_path": "lib/libcudnn.so",
+        "path_type": "softlink",
+        "sha256": "a02de43b1bbd95441ab6635184248cd4ae55ff895f73aea9ccbab3d2de0576a6",
+        "size_in_bytes": 340369168
+      },
+      {
+        "_path": "lib/libcudnn.so.7",
+        "path_type": "softlink",
+        "sha256": "a02de43b1bbd95441ab6635184248cd4ae55ff895f73aea9ccbab3d2de0576a6",
+        "size_in_bytes": 340369168
+      },
+      {
+        "_path": "lib/libcudnn.so.7.6.5",
+        "path_type": "hardlink",
+        "sha256": "a02de43b1bbd95441ab6635184248cd4ae55ff895f73aea9ccbab3d2de0576a6",
+        "sha256_in_prefix": "a02de43b1bbd95441ab6635184248cd4ae55ff895f73aea9ccbab3d2de0576a6",
+        "size_in_bytes": 340369168
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1964e8ba5b8b9f15e89eb4b666c9c0a0f71da4dd924250124d172b3d4f7a59a0",
+  "size": 150280218,
+  "subdir": "linux-64",
+  "timestamp": 1576790399970,
+  "track_features": "",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/cudnn-7.6.5-cuda9.0_0.conda",
+  "version": "7.6.5"
+}
